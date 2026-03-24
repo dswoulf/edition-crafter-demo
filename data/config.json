@@ -1,6 +1,6 @@
 {
   "id": "ec",
-  "documentName": "Hamilton Letters",
+  "documentName": "Hamilton",
   "iiifManifest": "/edition-crafter-demo/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
